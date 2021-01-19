@@ -1,9 +1,9 @@
 # **CountriesApp**
 
 ## **OBJECTIVE**
-The main idea behind developing this mini project was to increase my domain knowlegde in Android Studio. This project introduced me to a whole new concept of Android Architecture and Unit Testing.
+The main idea behind developing this mini project was to increase my domain knowledge in Android Studio. This project introduced me to a whole new concept of Android Architecture and Unit Testing.
 
-Overall it is an application with simple functionality; it displays Country's Name along with its flag and its capital. However it was made like that on purpose because the main objective was to apply complex comcepts on a simple application.
+Overall it is an application with simple functionality; it displays Country's Name along with its flag and its capital. However it was made like that on purpose because the main objective was to apply complex concepts on a simple application.
 
 Overall Concepts Applied:
 - MVVM Architecture 
